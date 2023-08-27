@@ -2,7 +2,7 @@ from matplotlib import pyplot as plt
 from matplotlib_venn import venn3
 
 
-total_people = 120
+TP = 120
 nmr = 65
 tmr = 45
 fmr = 42
